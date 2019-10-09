@@ -1,0 +1,45 @@
+PG	Russell Westbrook	8700	54.343
+SG	Dwyane Wade	6600	34.77
+SF	Joe Johnson	5400	28.297
+PF	David West	4700	27.413
+C	Anderson Varejao	4300	22.135
+PG	Kyle Lowry	7300	36.811
+PF	Tim Duncan	6400	35.851
+PF	Zach Randolph	6600	33.957
+
+Total: 			50000	273.577
+
+PG	Russell Westbrook	8700	54.343
+SG	Dwyane Wade	6600	34.77
+SF	Kevin Durant	8600	43.481
+PF	Tim Duncan	6400	35.851
+C	Chris Kaman	4000	19.039
+PG	Mo Williams	5400	28.39
+PF	David West	4700	27.413
+SF	Joe Johnson	5400	28.297
+
+Total: 			49800	271.584
+
+
+PG	Jeff Teague	6800	33.34
+SG	Danny Green	5400	24.764
+SF	Kevin Durant	8600	43.481
+PF	Luis Scola	4300	20.704
+C	Marc Gasol	7700	38.014
+PG	Mo Williams	5400	28.39
+PF	Serge Ibaka	6400	31.387
+SF	Luol Deng	5300	25.722
+
+Total: 			49900	245.802
+
+
+PG	Jeff Teague	6800	33.34
+SG	Manu Ginóbili	4600	22.575
+SF	Luol Deng	5300	25.722
+PF	Paul Millsap	7300	36.154
+C	Marc Gasol	7700	38.014
+SG	DeMar DeRozan	7000	33.438
+PF	Chris Bosh	7000	36.011
+C	Anderson Varejao	4300	22.135
+
+Total: 			50000	247.389
